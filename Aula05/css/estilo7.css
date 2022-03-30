@@ -1,0 +1,31 @@
+.card {
+    width: 300px;
+    margin: 10px;
+    border: 1px solid black;
+    box-shadow: 0 0 10px darkgray;
+    border-radius: 20px 20px 0 0;
+    display: inline-block;
+}
+
+.card img {
+    width: 300px;
+    height: 220px;
+    border-radius: 20px 20px 0 0;
+}
+
+h1 {
+    text-align: center;
+}
+p{
+    text-align: justify;
+    padding: 20px;
+}
+
+.card button {
+    background-color: green;
+    border: none;
+    width: 100%;
+    font-size: 16pt;
+    padding: 10px;
+    cursor: pointer;
+}
